@@ -1,1 +1,3 @@
-Arch Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required. 
+ manjaro OS for everyone
+
+manjaro has no adverts, licenses or fees, it respects user privacy and empowers them with full control over their hardware. It can be used for development, gaming, 3D, office or home, it can be installed on tablets, mobile, desktops, laptops and boards. 
